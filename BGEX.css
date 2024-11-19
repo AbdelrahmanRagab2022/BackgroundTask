@@ -13,16 +13,22 @@ body {
     background-position: center center;
     background-blend-mode: darken;
 }
+p {
+    font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 1em;
+
+}
 nav {
     background-color:rgba(0,0,0,0.3);
 }
 main {
     text-align: center;
-    width: 60%;
+    width: 70%;
     margin: auto;
 }
 main .img-container {
-    width:50% ;
+    width:40% ;
     margin: auto;
 }
 main p , main h1 {
